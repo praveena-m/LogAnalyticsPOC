@@ -84,3 +84,7 @@ services.AddLogAnalyticsClient(c =>
             });
 ```
 
+### Workspace Query and Log Samples
+![alt text](https://github.com/praveena-m/LogAnalyticsPOC/blob/main/LogAnalytics.png)
+
+
